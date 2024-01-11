@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "pname": "maggie",
+      "pprice": "25",
+      "pqty": "57",
+      "id": 3
+    },
+    {
+      "pprice": "100",
+      "pname": "tissue",
+      "pqty": "100",
+      "id": 5
+    },
+    {
+      "pname": "water bottle (2LT)",
+      "pprice": "20",
+      "pqty": "65",
+      "id": 7
+    },
+    {
+      "pprice": "100",
+      "pname": "cloth",
+      "pqty": "12",
+      "id": 8
+    },
+    {
+      "pname": "cloths",
+      "pprice": "1000",
+      "pqty": "12",
+      "id": 9
+    },
+    {
+      "pprice": "100",
+      "pname": "chair",
+      "pqty": "12",
+      "id": 10
+    }
+  ]
+}
